@@ -1,3 +1,5 @@
+"""https://github.com/ganna-parkhomchuk/weather_bot.git"""
+
 import requests
 import json
 import time
